@@ -1,0 +1,12 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "json file for Assignment 2.2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  },
+  "author": "Amanda Rovey",
+  "license": "ISC"
+}
